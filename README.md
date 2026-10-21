@@ -44,7 +44,7 @@ https://archive.ics.uci.edu/dataset/2/adult
 
 ## Archivos
 
-- `Entrega2_G19.ipynb` – notebook principal con EDA, preprocesamiento, modelado y evaluación.
+- `Income_prediction.ipynb` – notebook principal con EDA, preprocesamiento, modelado y evaluación.
 
 ## Cómo ejecutarlo
 
